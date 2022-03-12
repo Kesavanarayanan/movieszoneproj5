@@ -1,0 +1,79 @@
+.home{
+    margin: 0; 
+    padding:0 0 150px 0;
+    box-sizing: border-box;
+    font-family:'Courier New', Courier, monospace;
+     
+}
+
+.home{
+    position:fixed;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100vh;
+    background-image: url('./Images/Moneyheist.jpg');
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size: 100% 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 5s;
+
+    animation-name: animate;
+    animation-direction: alternate-reverse;
+    animation-duration: 30s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    animation-play-state: running;
+    animation-timing-function: ease-in;
+}
+
+
+@keyframes animate{
+   0%{
+       background-image: url('./Images/Moneyheist.jpg');
+   }
+   10%{
+       background-image: url('./Images/peaky-blinders1.jpg');
+   }
+   20%{
+       background-image: url('./Images/angrybird.jpg');
+   }
+   30%{
+       background-image: url('./Images/Narouto.jpg');
+   }
+   40%{
+       background-image: url('./Images/peaky-blinders\ 2.jpg');
+   }
+   50%{
+       background-image: url('./Images/Naruto2.jpg');
+   }
+   60%{
+       background-image: url('./Images/squid\ game2.jpg');
+   }
+   70%{
+       background-image: url('./Images/Godzvskong.jpg');
+   }
+   80%{
+       background-image: url('./Images/SpiderNWH.jpg');
+   }
+   90%{
+       background-image: url('./Images/moonfall.jpg');
+   }
+   100%{
+       background-image: url('./Images/the\ batman.jpg');
+   }
+}
+
+
+
+.home h3{
+font-size: 10vw;
+color: #fff;
+font-family: 'Londrina Outline', cursive;
+
+}
+
+
