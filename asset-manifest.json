@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/movieszoneproj5/static/css/main.d5831a02.css",
+    "main.js": "/movieszoneproj5/static/js/main.e123dc71.js",
+    "static/media/the batman.jpg": "/movieszoneproj5/static/media/the batman.37b63d472c7716d5a2af.jpg",
+    "static/media/squid game2.jpg": "/movieszoneproj5/static/media/squid game2.2eed6713a5cf79944dad.jpg",
+    "static/media/SpiderNWH.jpg": "/movieszoneproj5/static/media/SpiderNWH.251904ee5611cecfa40e.jpg",
+    "static/media/moonfall.jpg": "/movieszoneproj5/static/media/moonfall.69ef479025f62f334ced.jpg",
+    "static/media/Godzvskong.jpg": "/movieszoneproj5/static/media/Godzvskong.da1dd289c3038702a04a.jpg",
+    "static/media/Moneyheist.jpg": "/movieszoneproj5/static/media/Moneyheist.3254bb9d77635d117675.jpg",
+    "static/media/Naruto2.jpg": "/movieszoneproj5/static/media/Naruto2.7f778d5329f3a06de9d0.jpg",
+    "static/media/angrybird.jpg": "/movieszoneproj5/static/media/angrybird.7ff4bdfae46465329ac1.jpg",
+    "static/media/Narouto.jpg": "/movieszoneproj5/static/media/Narouto.a9cd212d88f1b418b4ff.jpg",
+    "static/media/peaky-blinders1.jpg": "/movieszoneproj5/static/media/peaky-blinders1.12695269943502db02c1.jpg",
+    "static/media/peaky-blinders 2.jpg": "/movieszoneproj5/static/media/peaky-blinders 2.5dea23588476bed7b491.jpg",
+    "index.html": "/movieszoneproj5/index.html",
+    "main.d5831a02.css.map": "/movieszoneproj5/static/css/main.d5831a02.css.map",
+    "main.e123dc71.js.map": "/movieszoneproj5/static/js/main.e123dc71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5831a02.css",
+    "static/js/main.e123dc71.js"
+  ]
+}
